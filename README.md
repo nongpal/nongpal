@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nongpal
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning AI, Deep learning, and Machine Learning 
+- 👀 I’m interested in AI world
+- 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on Kaggle
-- 📫 How to reach me kaggle: kaggle.com/naufalhafishj IG: @naufal_chester
+- 📫 How to reach me kaggle: kaggle.com/naufalhafishj
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: i have learned machine learning and deep learning since November 2023 even though i have not in a collage 
 
